@@ -1,4 +1,4 @@
-I am Mamoon Tariq.
+### Hi there 👋 I am Mamoon Tariq
 
 <b>PERSONAL SUMMARY</b>
 
@@ -6,7 +6,7 @@ An experienced and competent software engineer with 2.8 years experience in deve
 
 <b>CAREER HIGHLIGHTS</b>
 
-2.6+ years of development experience in various platforms including JavaScript, jQuery, React JS, Redux, Redux Toolkit, i18next, Material-UI, Chakra-UI, Node JS, Express, HTML5, CSS3, Bootstrap, Ajax, JSON, MongoDB and MySQL with various responsibilities as Software Engineer/Senior Software engineer/Lead Developer.
+3+ years of development experience in various platforms including JavaScript, jQuery, React JS, Redux, Redux Toolkit, i18next, Material-UI, Chakra-UI, Node JS, Express, HTML5, CSS3, Bootstrap, Ajax, JSON, MongoDB and MySQL with various responsibilities as Software Engineer/Senior Software engineer/Lead Developer.
 
 
 <b>PROFESSIONAL EXPERIENCE</b>
