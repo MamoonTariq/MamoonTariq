@@ -21,9 +21,9 @@
 </ul>
 <hr></hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamoontariq&show_icons=true&locale=en&layout=compact" alt="mamoontariq" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamoontariq&show_icons=true&locale=en&layout=compact" alt="mamoontariq" /></p>
 <br></b>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamoontariq&show_icons=true&locale=en" alt="mamoontariq" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mamoontariq&show_icons=true&locale=en" alt="mamoontariq" /></p>
 
 <hr></hr>
 <h3 align="left">Connect with me:</h3>
