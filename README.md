@@ -11,13 +11,13 @@
 
 <hr></hr>
 <ul>
-<li> 🔭 <b>I’m currently working on my health and skills.</b></li>
-<li> 📱 <b>Worked on multiple projects throughout my career varying from e-learning systems to travel systems to IoT based systems to custom projects.</b></li>
-<li> 🌱 <b>I’m currently learning Docker.</b></li>
-<li> 💬 <b>Ask me about <a href="mailto:m.mamoon.tariq@gmail.com">JavaScript</a>, <a href="mailto:m.mamoon.tariq@gmail.com">TypeScript</a>, <a href="mailto:m.mamoon.tariq@gmail.com">React</a>, <a href="mailto:m.mamoon.tariq@gmail.com">Node.js</a>, <a href="mailto:m.mamoon.tariq@gmail.com">MongoDB</a>, <a href="mailto:m.mamoon.tariq@gmail.com">Express.js</a>.</b></li>
-<li> 📫 <b>How to reach me: Email me at <a href="mailto:m.mamoon.tariq@gmail.com">m.mamoon.tariq@gmail.com</a></b></li>
-<li> 😄 <b>Pronouns: He/Him or Moon</b></li>
-<li> ⚡ <b>Fun fact: My perfect day would start with exercise and end with tomorrow planning.</b></li>
+<li> 🔭 I’m currently working on my health and skills.</li>
+<li> 📱 Worked on multiple projects throughout my career varying from e-learning systems to travel systems to IoT based systems to custom projects.</li>
+<li> 🌱 I’m currently learning Docker.</li>
+<li> 💬 Ask me about <a href="mailto:m.mamoon.tariq@gmail.com">JavaScript</a>, <a href="mailto:m.mamoon.tariq@gmail.com">TypeScript</a>, <a href="mailto:m.mamoon.tariq@gmail.com">React</a>, <a href="mailto:m.mamoon.tariq@gmail.com">Node.js</a>, <a href="mailto:m.mamoon.tariq@gmail.com">MongoDB</a>, <a href="mailto:m.mamoon.tariq@gmail.com">Express.js</a>.</li>
+<li> 📫 How to reach me: Email me at <a href="mailto:m.mamoon.tariq@gmail.com">m.mamoon.tariq@gmail.com</a></li>
+<li> 😄 Pronouns: He/Him or Moon</li>
+<li> ⚡ Fun fact: My perfect day would start with exercise and end with tomorrow planning.</li>
 </ul>
 <hr></hr>
 
